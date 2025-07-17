@@ -6,4 +6,5 @@ My writing samples includes structured and concept based authoring, an installat
 I hope my technical writing portfolio gives you an insight into my tech writing skills
 
 Thank you for visiting my portfolio. I look forward to the possibility of working together!
+
 Prasanna Revankar
