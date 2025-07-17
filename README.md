@@ -1,4 +1,4 @@
-# my-technical-writing-portfolio
+# My-technical-writing-portfolio
 Hi and welcome to my Technical Writing Portfolio! My name is Prasanna Revankar, and I am passionate about making complex topics into user-friendly content.
 Experience using DITA, XML based software to create documentation. 
 My writing samples includes structured and concept based authoring, an installation guide, and a how-to guide.
